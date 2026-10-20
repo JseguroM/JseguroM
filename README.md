@@ -19,4 +19,4 @@ I enjoy building things for the web, exploring new technologies, and bringing id
 - 📚 Always learning, always improving
 - ✨ Into clean design and meaningful digital experiences
 
-*Still learning. Still building. Just getting started.*
+Still learning. Still building.
